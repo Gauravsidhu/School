@@ -1,0 +1,234 @@
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin-left: 48%;
+}
+
+li.nav-item {
+    margin-left: 40;
+    color: white;
+}
+
+a.navbar-brand {
+    margin-left: 1%;
+    color: white;
+    margin-top: -14px;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+p.nav-color {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+div#navbar {
+    background: black;
+}
+
+span.navbar-toggler-icon {
+    background: white;
+}
+
+.home-1 {
+    margin-left: 2%;
+    margin-top: 15%;
+}
+
+h4.perfect {
+    font-weight: 600;
+    font-size: 26px;
+    /* font-weight: 500; */
+}
+
+h4.your {
+    margin-left: -1px;
+    margin-top: 2%;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+div#home-content {
+    background: bisque;
+}
+
+p.established {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 3%;
+}
+
+img.student {
+    width: 80%;
+    border-radius: 3%;
+    margin-left: 3%;
+
+}
+
+.home-btn {
+    margin-top: -37px;
+    margin-left: 20%;
+}
+
+h4.\'newsletter {
+    margin-left: 30%;
+    margin-top: 2%;
+    color: white;
+}
+
+input#search-form {
+    margin-top: -37px;
+    margin-left: 51%;
+    width: 28%;
+}
+
+
+footer#footer-back {
+    background: black;
+}
+
+.footer-button {
+    margin-left: 73%;
+    margin-top: -54px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+a.smart {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-1 {
+    margin-left: 9%;
+    margin-top: 11%;
+}
+
+p.there {
+    color: white;
+    margin-top: 4%;
+    font-size: 17px;
+    margin-top: 4%;
+}
+
+.about-1 {
+    margin-top: 3%;
+    margin-left: 6%;
+}
+
+img.about {
+    width: 95%;
+}
+
+h4.words {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.about-2 {
+    margin-left: 11%;
+    margin-top: 12%;
+}
+
+p.about-2-a {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 2%;
+}
+
+h4.what {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.program-1 {
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+p.long {
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 4px;
+    margin-top: 12px;
+}
+
+h4.safety {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.program-2 {
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+p.long-a {
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 4px;
+    margin-top: 15px;
+}
+
+.program-3 {
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.program-4 {
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+h4.request {
+    text-align: center;
+    margin-top: 1%;
+}
+
+input#contact-form {
+    width: 90%;
+}
+
+.contact-1 {
+    margin-left: 20%;
+    margin-top: 3%;
+}
+
+input#contact-form-a {
+    width: 90%;
+    margin-top: 6%;
+}
+
+input#contact-form-b {
+    width: 90%;
+    margin-top: 6%;
+}
+
+.textarea {
+    margin-top: 6%;
+}
+
+.contact-btn {
+    margin-left: 33%;
+    margin-top: 4%;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 350px;
+    width: 724px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 350px;
+    width: 724px;
+}
+
+.mapouter {
+    margin-top: 2%;
+    margin-left: 10%;
+}
